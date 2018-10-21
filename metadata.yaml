@@ -1,5 +1,5 @@
 _repo: The-Golden-Chersonese-and-the-Way-Thither_3412
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -28,5 +28,6 @@ subjects:
 - !lcc 'DS'
 - !lcsh 'China -- Description and travel'
 - !lcsh 'Malay Peninsula -- Description and travel'
+- GITenberg
 title: The Golden Chersonese and the Way Thither
 url: http://www.gutenberg.org/ebooks/3412

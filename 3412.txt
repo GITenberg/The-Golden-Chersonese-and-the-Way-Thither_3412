@@ -58,8 +58,8 @@ Title: The Golden Chersonese and the Way Thither
 Author:  Isabella L. Bird (Mrs. Bishop)
 
 Release Date: September, 2002 [Etext #3412]
-[Yes, we are about one year ahead of schedule]
-[The actual date this file first posted = 04/09/01]
+The actual date this file first posted = 04/09/01
+Last Updated: December 19, 2016
 
 Edition: 10
 
@@ -1269,7 +1269,7 @@ central interior offer a wide field for the explorer.
 The letters which follow those written from China and Saigon relate to
 the British settlements in the Straits of Malacca, and to the native
 States of Perak, Selangor, and Sungei Ujong, which, since 1874, have
-passed. under British "protection." The preceding brief sketch is
+passed under British "protection." The preceding brief sketch is
 necessarily a very imperfect one, as to most of my questions addressed
 on the spot and since to the best informed people, the answer has been,
 "No information." The only satisfaction that I have in these
@@ -1947,7 +1947,7 @@ obliged to spend in sleep; a week has gone like half a day, each hour
 heightening my impressions of the fascination and interest of Canton,
 and of the singular force and importance of the Chinese. Canton is
 intoxicating from its picturesqueness, color, novelty and movement.
-to-day I have been carried eighteen miles through and round it,
+To-day I have been carried eighteen miles through and round it,
 reveling the whole time in its enchantments, and drinking for the first
 time of that water of which it may truly be said that who so drinks
 "shall thirst again"--true Orientalism. As we sat at mid-day at the
